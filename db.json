@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 169, "title": "Test 1" },
+    { "id": 169, "title": "Test 1" "body": "this is my test body"},
     { "id": 269, "title": "Test 2" },
     { "id": 369, "title": "Test 3" }
   ],
